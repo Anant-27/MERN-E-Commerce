@@ -53,3 +53,7 @@ After this you can run the project locally:
 - [Expressjs](https://expressjs.com)
 - [Mongoose](https://mongoosejs.com)
 - [Material UI](https://mui.com/)
+
+
+# FEATURE UPDATE
+- NOW YOU CAN SHOP DIFFERENT PRODUCTS
